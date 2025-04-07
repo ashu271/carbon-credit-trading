@@ -22,3 +22,5 @@ The aim of this project is to create a decentralized, trustless, and efficient s
 
 ## License
 This project is licensed under the **MIT License**.
+## Contract Details:
+0x7c20fd30c2a71f01d12a7d9ff741fc1c0dd05cdc
